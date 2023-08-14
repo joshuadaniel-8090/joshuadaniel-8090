@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <a href="https://discord.gg/">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=joshua___danieI">
         <img src="https://img.shields.io/twitter/follow/Joshua Daniel?style=social&logo="
             alt="follow on Twitter"></a>
@@ -36,6 +33,5 @@
 
 
 <a href ="https://www.linkedin.com/in/joshua-daniel-in/">
-    <img align = "left" src = "linkedin-logo-bold-white (1).svg"  alt="Joshua Daneil 
-    |Linkedin" width = "21px">
+    <img align = "left" src = "linkedin-logo-bold-white (1).svg"  alt="logo" width = "21px">
 </a>

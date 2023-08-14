@@ -25,7 +25,7 @@
             alt="follow on Twitter"></a>
 </p>
 
-
+Hi, I
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=joshuadaniel-8090&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/joshuadaniel-8090)
 

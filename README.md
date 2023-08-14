@@ -1,13 +1,12 @@
-# Hey, It's me Joshua Daniel
+# Hey, It's me Joshua Daniel - Full-Stack Developer
 
 ## About Me
 
-
-
 <p align="center">
-    <a href="https://github.com/joshuadaniel-8090" alt="Profile">
     <img src="https://github.com/joshuadaniel-8090/joshuadaniel-8090/assets/85048311/ae9590e5-6bb1-4499-92e9-301527900bb2">
-    </a> 
+</p>
+<br>
+<p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -22,16 +21,15 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <a href="https://twitter.com/intent/follow?screen_name=joshua___danieI">
         <img src="https://img.shields.io/twitter/follow/Joshua Daniel?style=social&logo="
-            alt="follow on Twitter"></a>
+            alt="Twitter"></a>``
 </p>
 
-Hi, I
+Hi, I'm Joshua Daniel, a passionate self-taught Full-stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=joshuadaniel-8090&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/joshuadaniel-8090)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadaniel-8090&layout=compact)](https://github.com/joshuadaniel-8090)
 
-
 <a href ="https://www.linkedin.com/in/joshua-daniel-in/">
-    <img align = "left" src = "linkedin-logo-bold-white (1).svg"  alt="logo" width = "21px">
+    <img align = "left" src = "pngegg.png"  alt="logo" width = "21px">
 </a>

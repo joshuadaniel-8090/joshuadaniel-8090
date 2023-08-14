@@ -35,5 +35,5 @@ Hi, I'm Joshua Daniel, a passionate self-taught Full-stack web developer and a f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadaniel-8090&layout=compact)](https://github.com/joshuadaniel-8090)
 
 <a href ="https://www.linkedin.com/in/joshua-daniel-in/">
-    <img align = "left" src = "pngegg.png"  alt="logo" width = "21px">
+    <img align = "left" src = "pngegg (1).png"  alt="logo" width = "21px">
 </a>

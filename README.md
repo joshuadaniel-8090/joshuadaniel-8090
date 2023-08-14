@@ -23,11 +23,19 @@
     <a href="https://discord.gg/">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+    <a href="https://twitter.com/intent/follow?screen_name=joshua___danieI">
+        <img src="https://img.shields.io/twitter/follow/Joshua Daniel?style=social&logo="
             alt="follow on Twitter"></a>
 </p>
 
 
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=joshuadaniel-8090&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/joshuadaniel-8090)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadaniel-8090&layout=compact)](https://github.com/joshuadaniel-8090)
+
+
+<a href ="https://www.linkedin.com/in/joshua-daniel-in/">
+    <img align = "left" src = "linkedin-logo-bold-white (1).svg"  alt="Joshua Daneil 
+    |Linkedin" width = "21px">
+</a>

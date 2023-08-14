@@ -24,7 +24,11 @@
             alt="Twitter"></a>``
 </p>
 
+<br>
+
 Hi, I'm Joshua Daniel, a passionate self-taught Full-stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+<br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=joshuadaniel-8090&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/joshuadaniel-8090)
 

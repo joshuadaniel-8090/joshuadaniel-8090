@@ -34,6 +34,14 @@ Hi, I'm Joshua Daniel, a passionate self-taught Full-stack web developer and a f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadaniel-8090&layout=compact)](https://github.com/joshuadaniel-8090)
 
+<span>
+
 <a href ="https://www.linkedin.com/in/joshua-daniel-in/">
-    <img align = "left" src = "pngegg (1).png"  alt="logo" width = "21px">
+    <img align = "left" padding="10px" src = "pngegg (1).png"  alt="logo" width = "21px">
 </a>
+
+<a href ="https://www.instagram.com/joshua___daniel">
+    <img padding="10px" src = "insta.png"  alt="logo" width = "21px">
+</a>
+
+</span>

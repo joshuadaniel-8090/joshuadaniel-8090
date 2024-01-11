@@ -19,9 +19,7 @@
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <a href="https://twitter.com/intent/follow?screen_name=joshua___danieI">
-        <img src="https://img.shields.io/twitter/follow/Joshua Daniel?style=social&logo="
-            alt="Twitter"></a>``
+    
 </p>
 
 <br>
@@ -42,6 +40,9 @@ Hi, I'm Joshua Daniel, a passionate self-taught Full-stack web developer and a f
 
 <a href ="https://www.instagram.com/joshua___daniel">
     <img padding="10px" src = "insta.png"  alt="logo" width = "21px">
+</a>
+<a href="https://twitter.com/intent/follow?screen_name=joshua___danieI">
+    <img src="https://img.shields.io/twitter/follow/Joshua Daniel?style=social&logo=" alt="Twitter">
 </a>
 
 </span>

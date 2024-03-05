@@ -3,13 +3,12 @@
 ## About Me
 
 ![Joshua Daniel, Full Stack Developer](https://github.com/joshuadaniel-8090/ReadMe/assets/85048311/83f8e1ea-119a-46c1-a074-5e04ab34b69f)
-
+{}
 <br>
 
 <p align="center">
 
-{: style="text-align: right" }
-This text is on the right
+
 
 ![Joshua Daniel, Full Stack Developer](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Joshua Daniel, Full Stack Developer](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

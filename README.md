@@ -2,7 +2,7 @@
 
 ## About Me
 
-![Joshua Daniel, Full Stack Developer](https://github.com/joshuadaniel-8090/joshuadaniel-8090/issues/1#issue-2168202452)
+![Joshua Daniel, Full Stack Developer](https://github.com/joshuadaniel-8090/ReadMe/assets/85048311/83f8e1ea-119a-46c1-a074-5e04ab34b69f)
 
 <br>
 

@@ -36,7 +36,7 @@ Hi, I'm Joshua Daniel, a passionate self-taught Full-stack web developer and a f
 
 <span>
 
-<a href ="https://www.linkedin.com/in/joshua-daniel-in/">
+<a href ="https://www.linkedin.com/in/joshuadaniel8090//">
     <img padding="10px" src = "pngegg (1).png"  alt="logo" width = "21px">
 </a>
 

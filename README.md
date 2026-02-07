@@ -1,14 +1,14 @@
-# Joshua Daniel — Full Stack Software Developer | GitHub: @joshuadaniel-8090 | JavaScript | TypeScript | React | Next.js | Node.js
+# Joshua Daniel — Full Stack Software Developer | JavaScript | TypeScript | React | Next.js | Node.js
 
-> **Crafting elegant, scalable digital solutions** | Full Stack Developer | Front-End Developer | Back-End Developer | API Development | Software Trainee at Intelizign | India | GitHub: [@joshuadaniel-8090](https://github.com/joshuadaniel-8090)
+> **Crafting elegant, scalable digital solutions** | Full Stack Developer | Front-End Developer | Back-End Developer | API Development | Software Trainee at Intelizign | India |
 
 ---
 
 ## 👨‍💻 About Me
 
-**Joshua Daniel** (@joshuadaniel-8090) is a skilled **Full Stack Software Developer** and **web developer** specializing in modern web development using **JavaScript**, **TypeScript**, **React**, and **Next.js**. Check out my [GitHub profile](https://github.com/joshuadaniel-8090) for my latest projects and contributions.
+**Joshua Daniel** (@joshuadaniel-8090) is a skilled **Full Stack Software Developer** and **web developer** specializing in modern web development using **JavaScript**, **TypeScript**, **React**, and **Next.js**. Check out my GitHub profile for my latest projects and contributions.
 
-I'm **Joshua Daniel**, a passionate **full stack software developer** and **software engineer** dedicated to transforming innovative ideas into elegant, high-performance digital solutions. Currently working as a **Software Trainee at Intelizign**, I specialize in building responsive web applications, developing RESTful APIs, and designing scalable backend architectures. I combine self-taught expertise with continuous learning to deliver exceptional user experiences and robust backend systems using cutting-edge technologies in web development. Follow my work on [GitHub (joshuadaniel-8090)](https://github.com/joshuadaniel-8090) and explore my full-stack development projects.
+I'm **Joshua Daniel**, a passionate **full stack software developer** and **software engineer** dedicated to transforming innovative ideas into elegant, high-performance digital solutions. Currently working as a **Software Trainee at Intelizign**, I specialize in building responsive web applications, developing RESTful APIs, and designing scalable backend architectures. I combine self-taught expertise with continuous learning to deliver exceptional user experiences and robust backend systems using cutting-edge technologies in web development.
 
 ### Core Expertise
 
@@ -70,7 +70,6 @@ I am proficient in a comprehensive stack of modern web development technologies 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </p>
 
@@ -89,7 +88,6 @@ Developing full-stack web applications and building innovative software solution
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/joshuadaniel-8090)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joshua-daniel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadaniel8090/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/joshua___daniel)
@@ -97,15 +95,13 @@ Developing full-stack web applications and building innovative software solution
 
 </p>
 
-**Find me on GitHub** [@joshuadaniel-8090](https://github.com/joshuadaniel-8090) for my open-source projects and code repositories.
-
 ---
 
 ## 🚀 Featured Projects & GitHub Repositories
 
 ### [ToonKit](https://toonkit.online/) — Data Format Conversion Platform
 
-A full-stack web application for converting between JSON, XML, and CSV formats. Features AI token optimization analytics. Built with modern web technologies for seamless data transformation and analysis. View the [source code on GitHub](https://github.com/joshuadaniel-8090) for more details.
+A full-stack web application for converting between JSON, XML, and CSV formats. Features AI token optimization analytics. Built with modern web technologies for seamless data transformation and analysis. View the [source code on GitHub](https://github.com/toon-format/toon) for more details.
 
 ---
 

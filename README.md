@@ -44,14 +44,6 @@ I'm **Joshua Daniel**, a passionate full stack software developer dedicated to t
 
 ---
 
-## 📊 GitHub Statistics & Analytics
-
-<p align="center">
-
-</p>
-
----
-
 ## 🏢 Current Position
 
 **Software Trainee** @ **Intelizign**  

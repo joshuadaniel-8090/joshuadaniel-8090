@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-![Joshua Daniel, Full Stack Developer at Intelizign](https://github.com/joshuadaniel-8090/ReadMe/assets/85048311/83f8e1ea-119a-46c1-a074-5e04ab34b69f)
+Joshua Daniel, Full Stack Developer at Intelizign
 
 I'm **Joshua Daniel**, a passionate full stack software developer dedicated to transforming innovative ideas into elegant, high-performance solutions. Currently working as a **Software Trainee at Intelizign**, I combine self-taught expertise with continuous learning to deliver exceptional user experiences and robust backend systems.
 
@@ -25,13 +25,17 @@ I'm **Joshua Daniel**, a passionate full stack software developer dedicated to t
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </p>
@@ -43,10 +47,6 @@ I'm **Joshua Daniel**, a passionate full stack software developer dedicated to t
 ## 📊 GitHub Statistics & Analytics
 
 <p align="center">
-
-[![Joshua Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuadaniel-8090&show_icons=true&theme=tokyonight&hide_rank=true&card_width=400)](https://github.com/joshuadaniel-8090)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadaniel-8090&layout=compact&theme=tokyonight)](https://github.com/joshuadaniel-8090)
 
 </p>
 
@@ -63,16 +63,24 @@ Building innovative software solutions and expanding expertise in full stack dev
 
 <p align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://joshua-daniel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuadaniel8090/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/joshua___daniel)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/joshua___danieI)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/joshuadaniel-8090)
 
 </p>
 
 ---
 
-## 💡 Philosophy
+## � Featured Projects
+
+### [ToonKit](https://toonkit.online/)
+
+Convert JSON, XML, CSV to Toon format and vice versa. Optimize AI token usage effortlessly.
+
+---
+
+## �💡 Philosophy
 
 I believe in writing clean, maintainable code and crafting user experiences that matter. Every project is an opportunity to learn, innovate, and push the boundaries of what's possible in web development.
 
